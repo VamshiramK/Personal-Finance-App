@@ -39,10 +39,6 @@ Use Visual Studio Code or any other editor.
 Project Setup
 Clone or download the project to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-repo/personal-finance-manager.git
-cd personal-finance-manager
 Create a new directory and add the following structure:
 
 arduino
